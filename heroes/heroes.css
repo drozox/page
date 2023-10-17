@@ -104,3 +104,7 @@ small{
   max-width: 70%;
   overflow: hidden;
 }
+
+.boton-enlace{
+  margin-bottom:  1rem; ;
+}
